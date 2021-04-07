@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 5th, 2021 
+### Day 1: April 6th, 2021 
 
 **Today's Progress**: Let's go! Set up my TWTR account to document my progress and set up my repo. As part of Hackweek, I'm going to attempt to learn the following technologies:
 
