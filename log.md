@@ -17,5 +17,5 @@ I've built out my proposal in the Google Doc linked below.
 
 This evening I took some time to learn how to create a real-time chat application using Socket.io! I found a nifty intro tutorial in the Socket documentation and coded along. This will likely be the cornerstone for my Hack Week project.
 **Links to today's work:** 
-[Intro to Socket.io](https://github.com/mgtz505/socket_intro)
-[My Project Proposal](https://docs.google.com/document/d/1rQRC_19CSoVAdtN6KrDOg8cQ6wrSJf2Ig5gmwA9D-Ng/edit#)
+- [Intro to Socket.io](https://github.com/mgtz505/socket_intro)
+- [My Project Proposal](https://docs.google.com/document/d/1rQRC_19CSoVAdtN6KrDOg8cQ6wrSJf2Ig5gmwA9D-Ng/edit#)
