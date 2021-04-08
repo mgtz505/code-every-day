@@ -19,3 +19,13 @@ This evening I took some time to learn how to create a real-time chat applicatio
 **Links to today's work:** 
 - [Intro to Socket.io](https://github.com/mgtz505/socket_intro)
 - [My Project Proposal](https://docs.google.com/document/d/1rQRC_19CSoVAdtN6KrDOg8cQ6wrSJf2Ig5gmwA9D-Ng/edit#)
+
+### Day 2: April 7th, 2021 
+
+**Today's Progress**: Learning some React Native to being implementing my project for HackWeek. I'm coding along w/ a Udemy tutorial and tonight, made a very simple to-do list application. Honestly, 70% of the struggle was simply getting RN set-up and connected to my iPhone. 
+
+
+**Thoughts:** React Native seems  (and I hope I don't jynx myself here) pretty manageable. The styling protocol is different (No CSS!?!) and it's pretty wild to think that you can build a mobile application with so few components. 
+
+**Links to today's work:** 
+- [My Repo for Intro to React Native](https://github.com/mgtz505/intro-to-rn)
