@@ -29,3 +29,13 @@ This evening I took some time to learn how to create a real-time chat applicatio
 
 **Links to today's work:** 
 - [My Repo for Intro to React Native](https://github.com/mgtz505/intro-to-rn)
+
+### Day 3: April 8th, 2021 
+
+**Today's Progress**: Making this commmit a day late, but I was up late working!. I'm still making great headway with my RN skills and am excited to report that I've broken ground on my HackWeek project. There's a good amount I still need to tackle, but the new syntax, components and lack of CSS is somewhat more manageable. I additionally worked with Native-base, a framework that's analgous to Bootstrap. I've had great luck thus-far with using it!
+
+
+**Thoughts:** Nothing too inceremental, but I will say, it's pretty remarkable to see how much more readily you can pick up a new framework / language once you already have on under your belt. Between RN, Python and Django, it's beena. busy week!
+
+**Links to today's work:** 
+- [My Repo for Intro to React Native](https://github.com/mgtz505/comfy-classroom)
