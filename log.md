@@ -58,7 +58,7 @@ This evening I took some time to learn how to create a real-time chat applicatio
 **Today's Progress**: Phew! Wrapping up that project was a relief. I'm glad to have some RN in my back pocket. Excited for Project Four on the horizon, but need to recharge my batteries first. For today, I tackled a Codewars 7 kata. Perhaps not the most skilled kata (not even close actually haha) but it got the job done for today. 
 
 **Thoughts:** 
-On a side note, I'm very excited for GA's upcoming product week! I've registered for five lectures and am stoked to learn more about PM responsabilities and best-practices for the recruiting gauntlet. 
+On a side note, I'm very excited for [GA's upcoming product week](https://generalassemb.ly/hit-play-tech-conference-2021/product-week?utm_source=twitter&utm_medium=social&utm_campaign=2021-q2-global-marketing-campaign-hit-play-conference)! I've registered for five lectures and am stoked to learn more about PM responsabilities and best-practices for the recruiting gauntlet. 
 
 Catch me at: 
 - Don't Go Chasing Waterfalls: Agile vs. Waterfall
