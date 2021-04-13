@@ -39,3 +39,36 @@ This evening I took some time to learn how to create a real-time chat applicatio
 
 **Links to today's work:** 
 - [My Repo for Intro to React Native](https://github.com/mgtz505/comfy-classroom)
+
+
+
+### Day 4,5,6: April 8th-04/11, 2021 
+
+**Today's Progress**: Well, I dropped the ball! I coded on all three days (and have the commits to prove it ;) , but I didn't keep my log current or send out my accountability tweet. On a more positive note, I've completed my React Native project! I wrote about it extensively in my ReadMe within that repo. If you, valued reader, are more interested in a quick take on my experience, check out my [Dev.to](https://dev.to/mgtz505/trying-to-keep-comfy-a-react-native-5-day-trial-by-fire-2ooh) post about Comfy Classroom. 
+
+
+**Thoughts:** It's pretty incredible how once you have a single language under your belt, other languages (as demonstrated w/ Python) and frameworks (React Native) can be tackled in a pretty expedient manner. Sure, I'm far from being an expert dev, but I do have comptenacy in RN and can now say that I've shipped a mobile application!
+
+**Links to today's work:** 
+- [My Repo for Intro to React Native](https://github.com/mgtz505/comfy-classroom)
+- [Check out my post on Dev.to](https://dev.to/mgtz505/trying-to-keep-comfy-a-react-native-5-day-trial-by-fire-2ooh)
+
+### Day 7, April 12, 2021
+
+**Today's Progress**: Phew! Wrapping up that project was a relief. I'm glad to have some RN in my back pocket. Excited for Project Four on the horizon, but need to recharge my batteries first. For today, I tackled a Codewars 7 kata. Perhaps not the most skilled kata (not even close actually haha) but it got the job done for today. 
+
+**Thoughts:** 
+On a side note, I'm very excited for GA's upcoming product week! I've registered for five lectures and am stoked to learn more about PM responsabilities and best-practices for the recruiting gauntlet. 
+
+Catch me at: 
+- Don't Go Chasing Waterfalls: Agile vs. Waterfall
+- Tech Essentials for Product Managers
+- Secrets of The Product Job Search
+- GA PDM Alumni Panel
+- Mastering Effective Communication as A Product Manager
+- Mastering Your Product Resume
+
+**Links to today's work:** 
+- [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
+
+
