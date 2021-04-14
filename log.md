@@ -71,4 +71,13 @@ Catch me at:
 **Links to today's work:** 
 - [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
 
+### Day 8, April 13, 2021
 
+**Today's Progress**: Making good headway w/ Django and RESTful APIs in class. Pretty tired from that spring for cozy classroom, so nothing too ambitious for today. Chose to work on webscraping in python. Trying to scrape an analyst note, which may not be the easisest, but would certainly be pretty cool to actually accomplish.
+
+**Thoughts:** 
+I miss javascript! Nah, python isn't too bad and I can certainly see the appeal.
+
+
+**Links to today's work:** 
+- [Repo for PDF Scraper](https://github.com/mgtz505/pdfscraper)
