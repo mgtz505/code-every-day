@@ -81,3 +81,66 @@ I miss javascript! Nah, python isn't too bad and I can certainly see the appeal.
 
 **Links to today's work:** 
 - [Repo for PDF Scraper](https://github.com/mgtz505/pdfscraper)
+
+### Day 9, April 14, 2021
+
+**Today's Progress**: Been working on getting ramped up for our capstone project! Today I did some review python code exercises to hopefully iron-down this language's fundamentals. 
+
+**Thoughts:** 
+I came across this [list](https://levelup.gitconnected.com/21-python-mini-projects-with-codes-c4126e4131e4) and might try some of these as little side projects. We shall see!
+
+### Day 10, April 15, 2021
+
+**Today's Progress**: Whew! Been making a TON of progress on my proposal for our capstone project. I spent a ton of time working though some wireframing in Figma using some pre-fab templates, creating a component hierarchy diagram as well as a User Flow chart for my proposed app's functionality. This was a beast of an undertaking for a single night, but I think it came out really well. Setting up the Jira and Agile workflow was pretty fun!
+
+**Thoughts:** 
+I really enjoy the project planning process. Seeing all of these ideas ceoma live on the paper (while knowing that they're fragile and will almost certainly change) is pretty exciting. 
+
+**Links to today's work:** 
+- [Capstone Project Proposal](https://docs.google.com/document/d/1pkIWiyvS0bURZm7FjMctsbzaYtcvN6O5vPp2x91FcAU/edit#)
+- [Our Workflow Planning (Roadmap w/ Jira)](https://resume-project4.atlassian.net/jira/software/projects/GCRA/boards/1/roadmap)
+
+
+### Day 11, April 16, 2021
+
+**Today's Progress**: Got the greenlight to proceed with our project! This afternoon, after watching some mock technical interviews, Guillermo and I went about setting up our GitHub repos for this project and discussing how we wanted to proceed getting up-and-running. 
+**Thoughts:** 
+Very excited to begin! If this React-pdf node package is easy to work with, we could land up making a pretty impressive application.
+
+**Links to today's work:** 
+- [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
+- [Backend Repo](https://github.com/Marcus-Guillermo/backend)
+
+### Day 12, April 17, 2021
+
+**Today's Progress**: Ah React Router, my old friend. Spent this evening getting our front-end environment ready for action (i.e. getting Bootstrap and all our other dependencies installed). Not installing or working with React-pdf yet, but began reading through the documentation. Looks like a pretty slick node package. I'm excited to see if we can make some nice resumes.
+
+**Thoughts:** 
+Pretty straight forward day. Used good ol' grid to get my layouts nice and organized. 
+**Links to today's work:** 
+- [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
+- [Backend Repo](https://github.com/Marcus-Guillermo/backend)
+- [React-pdf](https://react-pdf.org/)
+
+### Day 13, April 18, 2021
+
+**Today's Progress**: Dived into React-pdf
+
+**Thoughts:** 
+Frontend coming together nicely.
+**Links to today's work:** 
+- [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
+- [Backend Repo](https://github.com/Marcus-Guillermo/backend)
+- [React-pdf](https://react-pdf.org/)
+
+### Day 14, April 19, 2021
+
+**Today's Progress**: Made some incredible progress today. We're getting to hit MVP much sooner than anticipated. Needless to say, at this juncture, feeling pretty stoked about how well this project is progressing. React-pdf is great (so far, knock on wood) to work with and our rendered template look great. There's a lot of gront work with setting up some of these form fields, but c'est la vie.
+
+**Thoughts:** 
+We're gonna make a great final product!
+**Links to today's work:** 
+- [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
+- [Backend Repo](https://github.com/Marcus-Guillermo/backend)
+- [React-pdf](https://react-pdf.org/)
+
