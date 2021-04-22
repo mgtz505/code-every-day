@@ -144,3 +144,25 @@ We're gonna make a great final product!
 - [Backend Repo](https://github.com/Marcus-Guillermo/backend)
 - [React-pdf](https://react-pdf.org/)
 
+### Day 15, April 20, 2021
+
+**Today's Progress**: Our resume and cover letter now render perfectly! I need to work on making my React code DRYer... but we're super super close to hitting MVP. Feels pretty great.
+
+**Thoughts:** 
+
+Lot of redundancies I need to address. 
+**Links to today's work:** 
+- [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
+- [Backend Repo](https://github.com/Marcus-Guillermo/backend)
+- [React-pdf](https://react-pdf.org/)
+
+### Day 16, April 21, 2021
+
+**Today's Progress**: We hit MVP, but got bogged down working through some rebases. Hopefully tomorrow we can work toward integration of the indeed and/or LinkedIn APIs.
+
+**Thoughts:** 
+Finish line is in sight!
+**Links to today's work:** 
+- [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
+- [Backend Repo](https://github.com/Marcus-Guillermo/backend)
+- [React-pdf](https://react-pdf.org/)
