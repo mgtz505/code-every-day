@@ -166,3 +166,14 @@ Finish line is in sight!
 - [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
 - [Backend Repo](https://github.com/Marcus-Guillermo/backend)
 - [React-pdf](https://react-pdf.org/)
+
+### Day 17, April 22, 2021
+
+**Today's Progress**: MAde great headway on cleaning up the application. Tomorrow I'm going to need to spend some time working on making the styling dynamic. Cahnged my page width and was horrified how the site looked. Need to stop using pixels when playing w/ CSS! Also happy to say that I worked through more of my Google Coursera PM coursework. Today we covered (at a very high level) waterfall vs agile vs lean six sigma.
+**Thoughts:** 
+Finish strong!
+**Links to today's work:** 
+- [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
+- [Backend Repo](https://github.com/Marcus-Guillermo/backend)
+- [React-pdf](https://react-pdf.org/)
+
