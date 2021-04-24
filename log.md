@@ -177,3 +177,15 @@ Finish strong!
 - [Backend Repo](https://github.com/Marcus-Guillermo/backend)
 - [React-pdf](https://react-pdf.org/)
 
+### Day 18, April 22, 2021
+
+**Today's Progress**: Got a ton today with our app's CSS as well as implmentation of some dynamic charts from Levels.fyi
+
+Pretty stoked to see this all come together.
+**Thoughts:** 
+
+We should be ready to deploy tomorrow afternoon!
+
+**Links to today's work:** 
+- [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
+- [Backend Repo](https://github.com/Marcus-Guillermo/backend)
