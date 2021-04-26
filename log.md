@@ -189,3 +189,28 @@ We should be ready to deploy tomorrow afternoon!
 **Links to today's work:** 
 - [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
 - [Backend Repo](https://github.com/Marcus-Guillermo/backend)
+
+### Day 19, April 23, 2021
+
+**Today's Progress**: Well, we ran into a git issue. Seems as though GH is not recognizing that our rebases are complete, and moreover, oddly enough, our main branch is behind the Dev branch despite all of our merges haveing been successfully completed. Odd to say the least.
+**Thoughts:** 
+
+
+**Links to today's work:** 
+- [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
+- [Backend Repo](https://github.com/Marcus-Guillermo/backend)
+
+### Day 20, April 24, 2021
+
+**Today's Progress**: Some simple updates to the Homepage.js as well as fixing some CSS grid issues in Accounts.js as well as the integreated Levels.fyi components, but otherwise nothing too dramatic to report.
+
+**Links to today's work:** 
+- [Frontend Repo](https://github.com/Marcus-Guillermo/frontend)
+- [Backend Repo](https://github.com/Marcus-Guillermo/backend)
+
+### Day 21, April 25, 2021
+
+**Today's Progress**: Boom! We're deployed. Squared away some last-minute CSS formatting, did a bug test and ensured all templates render correctly. Good to go!
+
+**Links to today's work:** 
+- [Deployed Application](https://resume-render21.herokuapp.com/)
