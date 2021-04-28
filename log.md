@@ -214,3 +214,17 @@ We should be ready to deploy tomorrow afternoon!
 
 **Links to today's work:** 
 - [Deployed Application](https://resume-render21.herokuapp.com/)
+
+### Day 22, April 26, 2021
+
+**Today's Progress**: Put the finishing touches on Resu.me! Excited to see this go live and hopefully get some traction! Graduation day as well! Feels bittersweet but can't wait to see what the future brings. 
+
+**Links to today's work:** 
+- [Deployed Application](https://resume-render21.herokuapp.com/)
+
+### Day 23, April 27, 2021
+
+**Today's Progress**: Grinded out 123 exp on Edabit (gotta love that similarity to good ol' adjusted EBITDA) in both Python and JS. Didn't realize that I was on a free trial! I enjoyed the platform more than codewars, but don't know if I want to shell out the $ when Codewars is a free platform, especially given that I probably need to purchase a DS / Algo course. 
+
+**Links to today's work:** 
+- [Edabit Problems](https://edabit.com/user/8cJcmDhFqGcM6LFQc)
