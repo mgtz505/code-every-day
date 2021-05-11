@@ -228,3 +228,60 @@ We should be ready to deploy tomorrow afternoon!
 
 **Links to today's work:** 
 - [Edabit Problems](https://edabit.com/user/8cJcmDhFqGcM6LFQc)
+
+## I fell off the bandwagon here with the daily updates! I got a ton done during this chunk of time, and have a ton of exciting opportunities in the works. I'm trying to piece-back togther what I worked on (namely a ton of practice coding questions in python via edabit and leetcode, a Udemy course on Data Structures and Algorithms in python, and supplementary questions from Cracking the Coding Interview).
+
+Day 24, April 28th, 2021
+**Today's Progress**: Got my 2nd shot of the Pfizer Covid vaccine and boy is it a doozy. Going to be on the sidelines.
+
+### Day 25, April 29th, 2021
+**Today's Progress**: Making excellent progress with my Google Coursera curriculum in project management. I'm keeping my coding skills sharp with some practive in Edabit and am practicing python to supplement my JS skills. 
+
+Day 26, April 30th, 2021
+**Today's Progress**: Continuing my Coursera work and additionally supplementing with Edabit practice quesions!
+
+Day 27, May 1st, 2021
+**Today's Progress**: Continuing my Coursera work and additionally supplementing with Edabit practice quesions!
+
+Day 28, May 2nd, 2021
+**Today's Progress**: Continuing my Coursera work and additionally supplementing with Edabit practice quesions!
+
+Day 29, May 3rd, 2021
+**Today's Progress**: Continuing my Coursera work and additionally supplementing with Edabit practice quesions!
+
+Day 30, May 4th, 2021
+**Today's Progress**:  Purchased a Udemy course for [Data Structures and Algorithms in Python](https://www.udemy.com/course/algorithms-and-data-structures-in-python/) after some exciting news about a potential referral for an awesome role. Gotta get some practice in!
+
+Day 31, May 5th, 2021 
+**Today's Progress**: Covered a review of Big O, arrays / lists and intro to linked list. Supplemented with some Edabit python practice.
+
+Day 32, May 6th, 2021
+**Today's Progress**: Covered a review of Linked-Lists, Stacks and Queues. All the while I've been pounding those applications! 
+
+Day 33, May 7th, 2021
+**Today's Progress**: Covered a review of Trees! Binary search trees are pretty darn nifty. The implementation takes a while, but hopefully I can improve with practice. Need to continue practicing! I also helped Guillermo out by conducted a mock technical interview for him. I had him share hsi screen while I gave him an Edabit JS practice question. Teamwork makes the dream work!
+
+Day 34, May 8th, 2021
+**Today's Progress**: Took the day to just do practice questions in Edabit becuase I felt that my coding chops were getting a little rusty. It's a balancing act with that Udemy course!
+
+Day 35, May 9th, 2021
+**Today's Progress**: Covered a red/black and AVL trees. Seems a little too advanced for an entry-level / junior interview? At least that's how these youtube gurus make it seem. Regardless, can't hurt to have some exposure.
+
+### Day 36, May 10th, 2021
+
+**Today's Progress**: Pretty exciting day as I got my portfolio off the ground using gatsby.js. I worked through a decent chunk of a youtube tutorial making a simple hello world-esque gatsby site, then went ahead and explored Gatsby's starter offerings. I came across a beautiful starter that was the perfect springboard for my portfolio. I don't want this to be my "forever" portfolio, but for now I think it's a great asset.
+
+**Links to today's work:** 
+[Check out my porfolio here](https://www.marcus-gutierrez.com/)
+
+### Day 37, May 11th, 2021
+
+**Today's Progress**: Phew! The work jsut keeps coming. I'm seeing some traction with my applications and that's pretty exciting. I've been continuing to grind on my Udemy course, Edabit, and now worked in some LeetCode and Cracking the Coding Interview practice problems. I need to get more rote practice with DS implementation; lecture style learning just isn't resonating with me all that well.
+
+
+
+
+
+
+
+
