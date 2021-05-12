@@ -278,6 +278,11 @@ We should be ready to deploy tomorrow afternoon!
 
 **Today's Progress**: Phew! The work jsut keeps coming. I'm seeing some traction with my applications and that's pretty exciting. I've been continuing to grind on my Udemy course, Edabit, and now worked in some LeetCode and Cracking the Coding Interview practice problems. I need to get more rote practice with DS implementation; lecture style learning just isn't resonating with me all that well.
 
+### Day 38, May 12th, 2021
+
+**Today's Progress**: Working through Cracking the coding interview algo questions and also making headway with some Interview Cake practice problems. Also getting some practice implementing some data structures from scratch.
+
+
 
 
 
