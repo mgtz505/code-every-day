@@ -280,7 +280,7 @@ We should be ready to deploy tomorrow afternoon!
 
 ### Day 38, May 12th, 2021
 
-**Today's Progress**: Working through Cracking the coding interview algo questions and also making headway with some Interview Cake practice problems. Also getting some practice implementing some data structures from scratch.
+**Today's Progress**: Working through Cracking the coding interview algo questions and also making headway with some Interview Cake practice problems. Also getting some practice implementing some data structures from scratch. Have some interviews lined up so that's super exciting (and nerve-wracking in all honesty). I spent the afternoon working through some front-end practice questions covering rudimentary JS, CSS, HTML. I'm making a register of all those questions ina. GOOGL sheet, so it should be a pretty great resource. The practice has also been jogging my memory.
 
 
 
