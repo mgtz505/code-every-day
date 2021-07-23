@@ -19,8 +19,12 @@ Excited for a fresh start and for my upcoming interviews. Will need to be juggli
 **Links to My Code (if applicable)**
 Nothing for Today, but for the sake of establishing consistency, here's a link to the repo containing my Golang excerises: [Learning Go!](https://github.com/mgtz505/Go-Exercises)
 
+### Day 2: July 23rd, 2021
+**Today's Progress**
+I spent most of today applying for various roles, but did do some practice with Redux. Additionally completed several more Golang practice exercises. 
 
-
+**Links to My Code**
+[Learning Go!](https://github.com/mgtz505/Go-Exercises)
 
 
 
