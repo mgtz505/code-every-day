@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+## Whoa, where's the content?
+
+I had intitially started the 100 Days of Code challenge shortly before my intensive concluded in late April. I diligently abided by my daily commits to this repo, but after I began interview prep, my consistency worsened, and soon enough my commits were occuring every-other-day. Working exclusively in Code Signal and LeetCode's IDE was certainly somewhat responsible, but simply put, I just didn't stick with consistent commits despite (still) dilligently coding. 
+<br></br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVYPGrB0c95neBVeDDlQ9HNmfcDMnIbW2hg&usqp=CAU">
+<br></br>
+I'm restarting the 100 Days of Code Challenge, if not on Twitter, then at the least, back here in this repo. I've copied and pasted my old entries below as a time capsule of sorts, a window into the early days fo my development as a software engineer. That said, let's get down to business and see what the next 100 days throws my way!
+
+### A Fresh Start - Day 1: July 22nd, 2021
+
+**Today's Progress**
+In preperation for some upcoming front end engineering interviews, I've been brushing up on my React. It's been a couple weeks since I last took React for a spin, having focused almost exclusively on practing DS&A in Python (namely Leetcode and CodeSignal, though [Project Euler](https://github.com/mgtz505/project_euler) also got some love. I've also been teaching myself Go through a combination of a Udemy Course as well as various online resources. It's been a joy thus-far and I can see why it gets so much love from the developer community.
+
+**Thoughts**
+Excited for a fresh start and for my upcoming interviews. Will need to be juggling DS&A prep with front end as well as keeping up my mometum with Go, but happy to embrace the challenge. 
+
+**Links to My Code (if applicable)**
+Nothing for Today, but for the sake of establishing consistency, here's a link to the repo containing my Golang excerises: [Learning Go!](https://github.com/mgtz505/Go-Exercises)
+
+
+
+
+
+
+
+## Time Capsule (April 6th - May 12th):
+
 ### Day 1: April 6th, 2021 
 
 **Today's Progress**: Let's go! Set up my TWTR account to document my progress and set up my repo. As part of Hackweek, I'm going to attempt to learn the following technologies:
@@ -284,7 +311,7 @@ We should be ready to deploy tomorrow afternoon!
 
 
 
-
+### If you made it this far, you're a hero. Thanks for reading this repo!
 
 
 
