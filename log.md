@@ -26,6 +26,16 @@ I spent most of today applying for various roles, but did do some practice with 
 **Links to My Code**
 [Learning Go!](https://github.com/mgtz505/Go-Exercises)
 
+Days 2, 3, 4: July 26th, 2021
+**Today's Progress**
+It's been a whirlwind couple of days. I didn't make my commits, but got a ton done and am pretty proud of what I accomplished, including some React and GraphQL practice as well as making continued progress with Go. I need to loop some DS&A practice back into my routine soon... been a while since I took python for a spin. 
+
+**Links to My Code**
+
+Some of these are private repos... will make public once I'm done!
+[GraphQL Practice](https://github.com/mgtz505/graphql-subscription)
+[GraphQL Practice pt.2](https://github.com/mgtz505/GraphQL-Practice)
+[Tutorial I followed, creating a React-blessed terminal application](https://github.com/mgtz505/dev-dashboard)
 
 
 
