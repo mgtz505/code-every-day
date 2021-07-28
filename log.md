@@ -37,7 +37,16 @@ Some of these are private repos... will make public once I'm done!
 [GraphQL Practice pt.2](https://github.com/mgtz505/GraphQL-Practice)
 [Tutorial I followed, creating a React-blessed terminal application](https://github.com/mgtz505/dev-dashboard)
 
+### Day 6, July 27th, 2021
 
+**Today's Progress**
+Today was spent familiarizing myself with Docker! I followed along with various egghead.io tutorials as well as various Youtube tutorials as a supplement. I think that it'd be great practice to attempt to containerize some of my older projects. I additionally explored Recoil. As I understand it, Recoil is still not industry standard relative to Redux or MobX, but Recoil feels immensively more intuitive to use. 
+
+On a side note, I also broke 400 commits for my personal GH account today! Inclusive of those from my SEI GH Enterprise account, that puts me at North of 500 YTD commits :)
+
+**Links to My Code**
+- The Docker repos are still private (for now...)
+- [Code Sandbox for a very simple React & Recoil Exercise](https://codesandbox.io/s/shy-resonance-cv7n3?file=/src/App.js)
 
 ## Time Capsule (April 6th - May 12th):
 
